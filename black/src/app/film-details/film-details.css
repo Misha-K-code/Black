@@ -1,3 +1,15 @@
-.red{
-    color: red;
+:host {
+    display: block;
+    background-color: #EEE6E6;
+}
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin: 0px 100px;
+}
+
+.film-desc{
+    text-align: center;
 }
